@@ -1,1 +1,3 @@
-"# Rocketseat_Maratona_Discover" 
+<img src = "./image/logo.png">
+
+<img src = "./image/projeto.jpg">

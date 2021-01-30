@@ -2,4 +2,4 @@
 
 <img src = "./image/logo.png">
 
-<img src = "./image/projeto.jpg">
+![Programa-rodando](https://j.gifs.com/VA42o9.gif)

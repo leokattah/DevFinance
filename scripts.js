@@ -29,6 +29,7 @@ const Storage = {
 }
 
 const Transaction = {
+
   all: Storage.get(),
 
   add(transaction){

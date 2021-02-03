@@ -214,4 +214,14 @@ const App = {
   },
 }
 
+const root = document.documentElement
+function changeColor(){
+    if (this.checkbox.checked){
+        root.classList.add('dark')
+        console.log("dark choosed")
+    } else {
+        root.classList.remove('dark')
+        console.log("white choosed")
+    }
+}
 App.init()

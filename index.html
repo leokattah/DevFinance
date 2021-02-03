@@ -10,8 +10,18 @@
         <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,400;0,700;1,100;1,400;1,700&display=swap" rel="stylesheet">
     </head>
     <body>
-        <header>
+        <header class="header">
             <img src="./assets/logo.svg" alt="Logo Dev Finance">
+            <div id = "checkbox-position">
+                <input  type="checkbox"
+                        class="checkbox"
+                        id = "checkbox"
+                        onclick="changeColor()">
+
+                <label for="checkbox" class="label">
+                    <div class="ball"></div>
+                </label>
+            </div>
         </header>
 
         <main class="container">
@@ -39,11 +49,11 @@
                 </div>
 
                 <div class="card total">
-                    <h3>
+                    <h3 id="total">
                         <span>
                             Total
                         </span>
-                        <img src="./assets/total.svg" alt="Image de total">
+                        <img src="./assets/total.svg" alt="Imagem do total">
                     </h3>
                     <p id="totalDisplay">R$ 0,00</p>
                 </div>

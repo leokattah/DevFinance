@@ -224,4 +224,5 @@ function changeColor(){
         console.log("white choosed")
     }
 }
+
 App.init()

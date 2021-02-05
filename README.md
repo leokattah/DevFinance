@@ -11,8 +11,8 @@
 <p>
 
 
-<p align="center" target = _blank>
-<[![Aplicação rodando](https://img.youtube.com/vi/hAMPYnjAMnA/maxresdefault.jpg)](https://youtu.be/hAMPYnjAMnA)>
+<p align="center" target = _blank>  
+[![Aplicação rodando](https://img.youtube.com/vi/hAMPYnjAMnA/maxresdefault.jpg)](https://youtu.be/hAMPYnjAMnA)
 </p>
 
 

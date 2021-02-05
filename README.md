@@ -12,8 +12,11 @@
 
 
 <p align="center" target = _blank>  
-[<img src = "https://img.youtube.com/vi/hAMPYnjAMnA/maxresdefault.jpg"width="100%">](https://youtu.be/hAMPYnjAMnA)
+<!-- [<img src = "https://img.youtube.com/vi/hAMPYnjAMnA/maxresdefault.jpg"width="100%">](https://youtu.be/hAMPYnjAMnA) -->
 </p>
+
+
+[![Assista a aplicação rodando](https://img.youtube.com/vi/hAMPYnjAMnA/maxresdefault.jpg"width="100%")](https://youtu.be/hAMPYnjAMnA)
 
 
 

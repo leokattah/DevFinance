@@ -11,5 +11,5 @@
 <p>
 
 <div>
-  <a href = "https://img.youtube.com/vi/hAMPYnjAMnA/maxresdefault.jpg)](https://youtu.be/hAMPYnjAMnA)"  target = "_blank">
+  <a href = "https://youtu.be/hAMPYnjAMnA"  target = "_blank">
 </div>

@@ -10,5 +10,5 @@
 <p>
 <p>
 
-
-[![Programa rodando]("https://img.youtube.com/vi/hAMPYnjAMnA/maxresdefault.jpg)](https://youtu.be/hAMPYnjAMnA)
+[<img src="https://img.youtube.com/vi/hAMPYnjAMnA/maxresdefault.jpg" width="50%">](https://youtu.be/hAMPYnjAMnA)
+<!-- [![Programa rodando]("https://img.youtube.com/vi/hAMPYnjAMnA/maxresdefault.jpg")](https://youtu.be/hAMPYnjAMnA) -->

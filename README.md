@@ -11,5 +11,5 @@
 <p>
 
 
-[<img src="https://img.youtube.com/vi/hAMPYnjAMnA/maxresdefault.jpg" width="100%">](https://youtu.be/hAMPYnjAMnA)
+[<img src="https://img.youtube.com/vi/hAMPYnjAMnA/maxresdefault.jpg" width="100%">](https://youtu.be/hAMPYnjAMnA){target = _blank}
 

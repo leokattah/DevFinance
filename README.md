@@ -6,7 +6,7 @@
 <p>
 <p>
 
-<img src = "/.image/maratona_Discover.gif">
+<img src = "./image/maratona_Discover.gif">
 
 
 

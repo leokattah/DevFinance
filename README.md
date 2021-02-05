@@ -10,8 +10,7 @@
 <p>
 <p>
 
-<!-- <a href="http://stackoverflow.com" target="_blank">Go</a> -->
 
-<a href= "https://youtu.be/hAMPYnjAMnA" target="_blank">
+[go](https://youtu.be/hAMPYnjAMnA){:target="_blank" rel="noopener"}
 <!-- [<img src="https://img.youtube.com/vi/hAMPYnjAMnA/maxresdefault.jpg" width="100%">](https://youtu.be/hAMPYnjAMnA){target="_blank"} -->
 

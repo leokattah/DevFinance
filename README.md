@@ -4,4 +4,6 @@
 
 <!-- ![Programa-rodando](https://j.gifs.com/VA42o9.gif) -->
 
-[![Watch the video](https://img.youtube.com/vi/hAMPYnjAMnA/hqdefault.jpg)](https://youtu.be/hAMPYnjAMnA)
+### Assista a aplicação rodando clicando na imagem abaixo. 
+
+[![Watch the video](https://img.youtube.com/vi/hAMPYnjAMnA/maxresdefault.jpg)](https://youtu.be/hAMPYnjAMnA)

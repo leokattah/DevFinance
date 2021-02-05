@@ -16,7 +16,7 @@
 </p>
 
 
-[![Assista a aplicação rodando](https://img.youtube.com/vi/hAMPYnjAMnA/maxresdefault.jpg"width="100%")](https://youtu.be/hAMPYnjAMnA)
+[![Assista a aplicação rodando](https://img.youtube.com/vi/hAMPYnjAMnA/maxresdefault.jpg"width="100%">](https://youtu.be/hAMPYnjAMnA)
 
 
 

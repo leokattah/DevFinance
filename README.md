@@ -4,4 +4,4 @@
 
 <!-- ![Programa-rodando](https://j.gifs.com/VA42o9.gif) -->
 
-[![Watch the video](https://i1.ytimg.com/vi/<https://youtu.be/hAMPYnjAMnA>/maxresdefault.jpg)](https://youtu.be/hAMPYnjAMnA)
+[![Watch the video](https://img.youtube.com/vi/hAMPYnjAMnA/hqdefault.jpg)](https://youtu.be/hAMPYnjAMnA)

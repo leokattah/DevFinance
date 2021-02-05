@@ -10,4 +10,6 @@
 <p>
 <p>
 
-[![Watch the video](https://img.youtube.com/vi/hAMPYnjAMnA/maxresdefault.jpg)](https://youtu.be/hAMPYnjAMnA)
+<label target = "_blank">
+[![Watch the video](https://img.youtube.com/vi/hAMPYnjAMnA/maxresdefault.jpg)](https://youtu.be/hAMPYnjAMnA) 
+</label>

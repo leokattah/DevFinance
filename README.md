@@ -12,7 +12,7 @@
 
 
 <p align="center" target = _blank>  
-[![Aplicação rodando](https://img.youtube.com/vi/hAMPYnjAMnA/maxresdefault.jpg)](https://youtu.be/hAMPYnjAMnA)
+<img src = "https://img.youtube.com/vi/hAMPYnjAMnA/maxresdefault.jpg"  width="50%">](https://youtu.be/hAMPYnjAMnA)
 </p>
 
 

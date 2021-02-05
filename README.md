@@ -6,7 +6,7 @@
 <p>
 <p>
 
-### Assista a aplicação rodando clicando na imagem abaixo. 
+## Assista a aplicação rodando clicando na imagem abaixo. 
 <p>
 <p>
 

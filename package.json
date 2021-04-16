@@ -1,0 +1,20 @@
+{
+  "name": "devfinanceapp",
+  "version": "1.0.0",
+  "description": "<p>\r <img src = \"./image/logo.png\">",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leokattah/Rocketseat_Maratona_Discover.git"
+  },
+  "author": "Leonardo Kattah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leokattah/Rocketseat_Maratona_Discover/issues"
+  },
+  "homepage": "https://github.com/leokattah/Rocketseat_Maratona_Discover#readme"
+}

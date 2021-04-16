@@ -1,11 +1,5 @@
 ## Projeto desenvolvido durante a Maratona Discover oferecido pela Rocketseat
 <p>
-<img src = "./image/logo.png">
-
-<img src = "./image/maratona_Discover.gif">
-
-
-
 
 <h1 align="center">
   <img alt="dev.finances" title="dev.finances" src=".github/logo.svg" width="220px" />
@@ -29,6 +23,10 @@
 <p align="center">
   <img alt="dev.finances" src=".github/devfinances.png" width="100%">
 </p>
+
+
+<img src = "./image/maratona_Discover.gif">
+
 
 ## 🚀 Tecnologias
 

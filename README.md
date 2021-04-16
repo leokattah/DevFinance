@@ -1,8 +1,9 @@
+<p align="center">
 ## Projeto desenvolvido durante a Maratona Discover oferecido pela Rocketseat
-<p>
+</p>
 
 <h1 align="center">
-  <img alt="dev.finances" title="dev.finances" src=".github/logo.svg" width="220px" />
+  <img alt="dev.finances" title="dev.finances" src="https://github.com/leokattah/Rocketseat_Maratona_Discover_1a_edicao/blob/main/image/logo.png" width="220px" />
 </h1>
 
 <p align="center">
@@ -13,9 +14,7 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="License" src="">
 </p>
 
 <br>

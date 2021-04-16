@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src="https://github.com/leokattah/Rocketseat_Maratona_Discover_1a_edicao/blob/main/assets/logo.svg" width="100%">
+  <img alt="dev.finances" src="https://github.com/leokattah/Rocketseat_Maratona_Discover_1a_edicao/blob/main/assets/logo.svg" width="20%">
 </p>
 <br>
 

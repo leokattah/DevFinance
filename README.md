@@ -1,6 +1,6 @@
-<p align="center">
-## Projeto desenvolvido durante a Maratona Discover oferecido pela Rocketseat
-</p>
+<h1>
+ Projeto desenvolvido durante a Maratona Discover oferecido pela Rocketseat
+</h1>
 
 <h1 align="center">
   <img alt="dev.finances" title="dev.finances" src="https://github.com/leokattah/Rocketseat_Maratona_Discover_1a_edicao/blob/main/image/logo.png" width="220px" />

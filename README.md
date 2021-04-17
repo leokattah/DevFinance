@@ -49,6 +49,8 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
+Se quiser ver a aplicação no seu navegador, acesse: https://leokattah.github.io/DevFinance/
+
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc) e adaptado por Leonardo Kattah
